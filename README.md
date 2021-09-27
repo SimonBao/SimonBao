@@ -4,5 +4,5 @@
 - 🌱 You can find out more @ www.simonbao.co.uk
 - 📫 How to reach me: simonbao.sb@gmail.com
 
-[![SimonBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonbao)](https://github.com/simonbao/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonbao)](https://github.com/simonbao/github-readme-stats)
+[![SimonBao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonbao)](https://github.com/simonbao/github-readme-stats)
 
